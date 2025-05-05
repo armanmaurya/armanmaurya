@@ -23,14 +23,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanmaurya" alt="armanmaurya" /></a> </p>
 
-- 🔭 I’m currently working on [readcsv](https://github.com/armanmaurya/readcsv)
-
-- 💬 Ask me about **reactjs, nextjs, django, expressjs, sfml and game development**
-
-- 📫 How to reach me **armanmarya6@gmail.com**
-
-- ⚡ Fun fact **You know what i can solve 3x3 rubix cube in just 30sec**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arman-maurya-2391aa263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arman-maurya-2391aa263/" height="30" width="40" /></a>

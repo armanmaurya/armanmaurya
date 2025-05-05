@@ -1,51 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Arman Maurya!</h1>
+<h3 align="center">🚀 Full Stack Developer | Python & JavaScript Enthusiast | AI & Blockchain Explorer</h3>
 
-<!--
-**armanmaurya/armanmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Arman Maurya</h1>
-<h3 align="center">A passionate Full Stack Developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanmaurya&label=Profile%20views&color=0e75b6&style=flat" alt="armanmaurya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanmaurya" alt="armanmaurya" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arman-maurya-2391aa263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arman-maurya-2391aa263/" height="30" width="40" /></a>
-<a href="https://instagram.com/arman_maurya26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arman_maurya26" height="30" width="40" /></a>
-<a href="https://medium.com/@armanmarya6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@armanmarya6" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/armanmarya6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="armanmarya6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hunterx201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hunterx201" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=armanmaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Framework:</h3>
+---
 
-- Python
-  - Django
-  - PyTorch
-- Javascript
-  - NextJS
-  - ExpressJS
-  - React Native
-- Rust
-- Java
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanmaurya&show_icons=true&locale=en&layout=compact" alt="armanmaurya" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanmaurya&show_icons=true&locale=en" alt="armanmaurya" /></p>
+#### 🧑‍💻 Languages
+- Python, JavaScript/TypeScript, Rust, Java, **Solidity**, Dart
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&" alt="armanmaurya" /></p>
+#### 🌐 Frontend
+- React, React Native, Next.js, TailwindCSS, **Flutter**
 
+#### 🔙 Backend
+- Django, Express.js, Node.js
+
+#### 🧱 Blockchain
+- Solidity, Web3.js, Ethers.js
+
+#### ⚙️ Tools & Platforms
+- Git, Docker, Postman, MongoDB, PostgreSQL
+
+#### 🤖 AI/ML
+- PyTorch, OpenCV, NumPy, Pandas
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanmaurya&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanmaurya&theme=tokyonight&row=1&column=6" alt="armanmaurya" /></a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arman-maurya-2391aa263/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://instagram.com/arman_maurya26" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+  </a>
+  <a href="https://medium.com/@armanmarya6" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" />
+  </a>
+  <a href="https://codeforces.com/profile/armanmarya6" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" />
+  </a>
+  <a href="https://www.leetcode.com/hunterx201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" />
+  </a>
+</p>
+
+---
+
+### 📬 Contact
+
+Feel free to reach out for collaboration, mentorship, or just to say hi!
+
+📧 armanmaurya@gmail.com  
+📍 India
+
+---
+
+⭐ _Thanks for visiting my profile! Let's build something amazing together._  

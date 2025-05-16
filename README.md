@@ -7,27 +7,14 @@
 
 ---
 
+### Projects
+- 💸[Balancr](https://github.com/armanmaurya/ledger_book_flutter): Manage money with others
+
 ### 🛠️ Tech Stack
 
-#### 🧑‍💻 Languages
-- Python, JavaScript/TypeScript, Rust, Java, **Solidity**, Dart
-
-#### 🌐 Frontend
-- React, React Native, Next.js, TailwindCSS, **Flutter**
-
-#### 🔙 Backend
-- Django, Express.js, Node.js
-
-#### 🧱 Blockchain
-- Solidity, Web3.js, Ethers.js
-
-#### ⚙️ Tools & Platforms
-- Git, Docker, Postman, MongoDB, PostgreSQL
-
-#### 🤖 AI/ML
-- PyTorch, OpenCV, NumPy, Pandas
-
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,java,solidity,dart,react,nextjs,tailwind,flutter,nodejs,express,django,mongodb,postgres,docker,git,postman,pytorch,opencv,ipfs,graphql,prisma,cpp,redux" />
+</div>
 
 ### 📊 GitHub Stats
 

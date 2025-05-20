@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arman Maurya!</h1>
+<h1 align="center">Hi there, I'm Arman Maurya! 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | Python & JavaScript Enthusiast | AI & Blockchain Explorer</h3>
 
 <p align="center">
@@ -6,62 +6,86 @@
 </p>
 
 ---
+  
+## 🚀 Featured Projects
 
-### Projects
-- 💸[Balancr](https://github.com/armanmaurya/ledger_book_flutter): Manage money with others
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### 🛠️ Tech Stack
+[![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=ledger_book_flutter&theme=tokyonight)](https://github.com/armanmaurya/ledger_book_flutter)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,rust,java,solidity,dart,react,nextjs,tailwind,flutter,nodejs,express,django,mongodb,postgres,docker,git,postman,pytorch,opencv,ipfs,graphql,prisma,cpp,redux" />
 </div>
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanmaurya&layout=compact&theme=tokyonight" height="180"/>
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanmaurya&theme=tokyonight&row=1&column=6" alt="armanmaurya" /></a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,postman,pytorch,opencv" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=solidity,ipfs,graphql,prisma" alt="Blockchain" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
+<div align="center">
+  
+| | |
+|-|-|
+| <img src="https://github-readme-stats.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanmaurya&layout=compact&theme=tokyonight" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=armanmaurya&theme=tokyonight" /> |
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=armanmaurya&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/arman-maurya-2391aa263/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/arman_maurya26" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@armanmarya6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://codeforces.com/profile/armanmarya6" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="30" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.leetcode.com/hunterx201" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-</p>
+  <a href="https://github.com/armanmaurya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
-Feel free to reach out for collaboration, mentorship, or just to say hi!
+<div align="center">
+  
+📧 **Email:** [armanmaurya@gmail.com](mailto:armanmaurya@gmail.com)  
+📍 **Location:** India  
+💼 **LinkedIn:** [Arman Maurya](https://www.linkedin.com/in/arman-maurya-2391aa263/)
 
-📧 armanmaurya@gmail.com  
-📍 India
+</div>
 
 ---
 
-⭐ _Thanks for visiting my profile! Let's build something amazing together._  
+<div align="center">
+  
+⭐ **Thanks for visiting my profile!** Let's build something amazing together.
+
+</div>

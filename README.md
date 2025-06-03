@@ -9,9 +9,10 @@
   
 ## 🚀 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-[![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=ledger_book_flutter&theme=tokyonight)](https://github.com/armanmaurya/ledger_book_flutter)
+[![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=balancr&theme=tokyonight)](https://github.com/armanmaurya/balancr)
+[![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=mindlist&theme=tokyonight)](https://github.com/armanmaurya/mindlist)
 
 </div>
 

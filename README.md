@@ -22,11 +22,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=python,js,ts,rust" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,flutter" alt="Frontend" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker" alt="DevOps" />
-  <img src="https://skillicons.dev/icons?i=git,postman,pytorch,opencv" alt="Tools" />
-  <img src="https://skillicons.dev/icons?i=solidity,ipfs,graphql,prisma" alt="Blockchain" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain" />
 </div>
 
 ---

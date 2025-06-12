@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,rust" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,cs,dart,cpp" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=nextjs,flutter" alt="Frontend" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
   <img src="https://skillicons.dev/icons?i=docker" alt="DevOps" />

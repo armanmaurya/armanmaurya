@@ -5,8 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=armanmaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-  
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Ka1toh-n__77Ze19l-N_bu2FfLn3awAu/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 ## 🚀 Featured Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -15,8 +19,6 @@
 [![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=mindlist&theme=tokyonight)](https://github.com/armanmaurya/mindlist)
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain" />
 </div>
 
----
 
 ## 📊 GitHub Stats
 

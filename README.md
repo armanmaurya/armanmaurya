@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Arman Maurya! 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | Python & JavaScript Enthusiast | AI & Blockchain Explorer</h3>
+<h3 align="center">Code adventurer ⚓ | Bold like Jack Sparrow, curious like Columbus</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=armanmaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,16 +12,10 @@
   </a>
 </p>
 
-## 🚀 Featured Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-[![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=balancr&theme=tokyonight)](https://github.com/armanmaurya/balancr)
-[![MindList](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=mindlist&theme=tokyonight)](https://github.com/armanmaurya/mindlist)
-[![MindList](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=nva&theme=tokyonight)](https://github.com/armanmaurya/nva)
-
-
-</div>
+## 🚀 Projects
+- [balancr](https://github.com/armanmaurya/balancr/): An app to manage your finance.
+- [mindlist](https://github.com/armanmaurya/mindlist/): a minimal To-Do list app.
+- [nva](https://github.com/armanmaurya/nva/): A CLI tool maded with rust allow u to list the directories in tree format and log files with syntax highlighting.
 
 ## 🛠️ Tech Stack
 

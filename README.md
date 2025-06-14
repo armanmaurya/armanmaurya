@@ -13,8 +13,8 @@
 </p>
 
 ## 🚀 Projects
-- [balancr](https://github.com/armanmaurya/balancr/): An app to manage your finance.
-- [mindlist](https://github.com/armanmaurya/mindlist/): a minimal To-Do list app.
+- [balancr](https://github.com/armanmaurya/balancr/): An beautiful finance management app made with flutter
+- [mindlist](https://github.com/armanmaurya/mindlist/): A minimal To-Do App made with flutter for your daily use. 
 - [nva](https://github.com/armanmaurya/nva/): A CLI tool maded with rust allow u to list the directories in tree format and log files with syntax highlighting.
 
 ## 🛠️ Tech Stack

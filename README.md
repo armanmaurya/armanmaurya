@@ -16,7 +16,9 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 [![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=balancr&theme=tokyonight)](https://github.com/armanmaurya/balancr)
-[![Balancr](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=mindlist&theme=tokyonight)](https://github.com/armanmaurya/mindlist)
+[![MindList](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=mindlist&theme=tokyonight)](https://github.com/armanmaurya/mindlist)
+[![MindList](https://github-readme-stats.vercel.app/api/pin/?username=armanmaurya&repo=nva&theme=tokyonight)](https://github.com/armanmaurya/nva)
+
 
 </div>
 

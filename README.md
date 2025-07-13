@@ -38,11 +38,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=armanmaurya&theme=tokyonight&row=1&column=6" alt="Trophies" />
 </div>
 </br>
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight" />
+</div>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
-  <div style="">  
-    <img src="https://github-readme-stats.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight" />
-  </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanmaurya&theme=react-dark" />
 </div>
   

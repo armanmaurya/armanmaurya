@@ -301,7 +301,7 @@ export default function Home() {
           <SkillsSection id="skills" className="z-10"/>
         </div>
 
-        <ProjectsSection id="projects" className="mx-auto w-full max-w-none" />
+        {/* <ProjectsSection id="projects" className="mx-auto w-full max-w-none" /> */}
 
         <div className="w-full px-4 sm:px-8">
           <section

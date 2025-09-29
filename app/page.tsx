@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Github, GithubIcon, Linkedin, Mail, Code2, Layers, Rocket, Sparkles, TrendingUp, Users } from "lucide-react";
 import { useState, useEffect, useRef } from "react";
+import myImage from "../public/my-image.png";
 
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -286,12 +287,11 @@ export default function Home() {
 
             <div className="absolute translate-x-80 w-full hidden overflow-hidden rounded-[32px] md:block">
               <Image
-                src="/my-image.png"
+                src={myImage}
                 alt="Portrait"
                 width={1080}
                 height={1920}
                 className="h-full w-full object-cover"
-                priority
               />
             </div>
           </section>

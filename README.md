@@ -13,20 +13,50 @@
 </p>
 
 ## 🚀 Projects
-- [Pagekeep](https://github.com/armanmaurya/BookSelf-frontend/): Share and grab information by posting articles on various topic or your thoughts
-- [balancr](https://github.com/armanmaurya/balancr/): An beautiful finance management app made with flutter
-- [mindlist](https://github.com/armanmaurya/mindlist/): A minimal To-Do App made with flutter for your daily use. 
-- [nva](https://github.com/armanmaurya/nva/): A CLI tool maded with rust allow u to list the directories in tree format and log files with syntax highlighting.
+
+### Featured Projects
+- [nva](https://github.com/armanmaurya/nva/): A file explorer for developers who live in the terminal - list directories in tree format with syntax highlighting
+- [balancr](https://github.com/armanmaurya/balancr/): A beautiful finance management app made with Flutter to track money lent and borrowed
+- [mindlist](https://github.com/armanmaurya/mindlist/): A simple yet effective to-do app made with Flutter for your daily use
+
+### AI & Machine Learning
+- [embedding-generator-service](https://github.com/armanmaurya/embedding-generator-service/): Generate 768-dimensional embeddings using Google's Gemini model
+- [cognilib](https://github.com/armanmaurya/cognilib/): A simple machine learning library for building and training models with ease
+- [eye-controlled-vehicle](https://github.com/armanmaurya/eye-controlled-vehicle/): Control vehicles using eye movements with computer vision
+
+### Libraries & Tools
+- [tools-rs](https://github.com/armanmaurya/tools-rs/): Rust library providing search, sorting algorithms and utility functions
+- [readcsv](https://github.com/armanmaurya/readcsv/): A CLI tool to print CSV files in formatted form
+- [mergef](https://github.com/armanmaurya/mergef/): A tool to merge multiple text files efficiently
+
+### Web & Blockchain
+- [MediChain](https://github.com/armanmaurya/MediChain/): Blockchain-based medical records management system
 
 ## 🛠️ Tech Stack
 
+### Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,cs,dart,cpp" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=nextjs,flutter" alt="Frontend" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="DevOps" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="Tools" />
-  <img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain" />
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,cpp,dart,cs,js" alt="Languages" />
+</div>
+
+### Frontend & Mobile
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,html,css" alt="Frontend" />
+</div>
+
+### Backend & Databases
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgresql" alt="Backend" />
+</div>
+
+### AI/ML & Blockchain
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,solidity" alt="AI/ML & Blockchain" />
+</div>
+
+### DevOps & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" alt="DevOps & Tools" />
 </div>
 
 

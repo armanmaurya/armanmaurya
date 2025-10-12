@@ -20,17 +20,14 @@
 - [mindlist](https://github.com/armanmaurya/mindlist/): A simple yet effective to-do app made with Flutter for your daily use
 
 ### AI & Machine Learning
-- [embedding-generator-service](https://github.com/armanmaurya/embedding-generator-service/): Generate 768-dimensional embeddings using Google's Gemini model
 - [cognilib](https://github.com/armanmaurya/cognilib/): A simple machine learning library for building and training models with ease
-- [eye-controlled-vehicle](https://github.com/armanmaurya/eye-controlled-vehicle/): Control vehicles using eye movements with computer vision
 
 ### Libraries & Tools
 - [tools-rs](https://github.com/armanmaurya/tools-rs/): Rust library providing search, sorting algorithms and utility functions
 - [readcsv](https://github.com/armanmaurya/readcsv/): A CLI tool to print CSV files in formatted form
 - [mergef](https://github.com/armanmaurya/mergef/): A tool to merge multiple text files efficiently
 
-### Web & Blockchain
-- [MediChain](https://github.com/armanmaurya/MediChain/): Blockchain-based medical records management system
+
 
 ## 🛠️ Tech Stack
 

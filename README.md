@@ -20,9 +20,6 @@
 - [balancr](https://github.com/armanmaurya/balancr/): A beautiful finance management app made with Flutter to track money lent and borrowed
 - [mindlist](https://github.com/armanmaurya/mindlist/): A simple yet effective to-do app made with Flutter for your daily use
 
-### AI & Machine Learning
-- [cognilib](https://github.com/armanmaurya/cognilib/): A simple machine learning library for building and training models with ease
-
 ### Libraries & Tools
 - [tools-rs](https://github.com/armanmaurya/tools-rs/): Rust library providing search, sorting algorithms and utility functions
 - [readcsv](https://github.com/armanmaurya/readcsv/): A CLI tool to print CSV files in formatted form

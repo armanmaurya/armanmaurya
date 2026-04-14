@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Arman Maurya! 👋</h1>
+## Hi there, I'm Arman Maurya...
 
 ### Featured Projects
 - [zournal](https://zournal.live): A information and knowledge sharing platform for masses.

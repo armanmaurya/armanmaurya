@@ -38,8 +38,8 @@
   <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=armanmaurya&theme=tokyonight&row=2&column=5&title=MultiLanguage,Experience,Issues,PullRequest,Commits&no-frame=true" alt="Trophies" width="100%" />
 </p>
 <p>  
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=armanmaurya&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmaurya&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armanmaurya&theme=tokyo-night&hide_border=true&radius=8" />

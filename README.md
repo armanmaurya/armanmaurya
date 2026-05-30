@@ -2,6 +2,7 @@
 
 ### Featured Projects
 - [zournal](https://zournal.live): A information and knowledge sharing platform for masses.
+- [Archiv](https://github.com/armanmaurya/Archiv/): Document Manager with tags and Scanner.
 - [nva](https://github.com/armanmaurya/nva/): A file explorer for developers who live in the terminal - list directories in tree format with syntax highlighting
 - [balancr](https://github.com/armanmaurya/balancr/): A beautiful finance management app made with Flutter to track money lent and borrowed
 - [mindlist](https://github.com/armanmaurya/mindlist/): A simple yet effective to-do app made with Flutter for your daily use

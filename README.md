@@ -1,5 +1,3 @@
-## Hi there, I'm Arman Maurya...
-
 ### Featured Projects
 - [zournal](https://zournal.live): A information and knowledge sharing platform for masses.
 - [Archiv](https://github.com/armanmaurya/Archiv/): Document Manager with tags and Scanner.

@@ -2,7 +2,7 @@
 - [zournal](https://zournal.live): A information and knowledge sharing platform for masses.
 - [Archiv](https://github.com/armanmaurya/Archiv/): Document Manager with tags and Scanner.
 - [Internet Radio](https://github.com/armanmaurya/InternetRadio/): Stream Radio all around the world.
-- [balancr](https://github.com/armanmaurya/balancr/): A beautiful finance management app made with Flutter to track money lent and borrowed
+- [balancr](https://github.com/armanmaurya/balancr/): Flutter to track money lent and borrowed
 
 ### Libraries & Tools
 - [readcsv](https://github.com/armanmaurya/readcsv/): A CLI tool to print CSV files in formatted form
